@@ -1,0 +1,6 @@
+valor_produto = float(input('valor do produto: R$  '))
+desconto = float(input('Desconto (em %) para esse produto:  '))
+desconto = desconto / 100
+print('Valor original:     R$', valor_produto)
+print('Desconto ganho:     R$', valor_produto * desconto)
+print('Valor com desconto: R$', valor_produto * (1-desconto))
