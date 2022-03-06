@@ -1,0 +1,20 @@
+.titulo-site{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    background: #000000;
+    color: #FFFFFF;
+    padding: 40px 40px;
+}
+
+.bannergeleft{
+    width: 100%;
+}
+
+.menu{
+    vertical-align: top;
+    text-align: center;
+    
+    
+    
+}
